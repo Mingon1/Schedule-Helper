@@ -22,23 +22,12 @@
 
 ## 📲 주요 기능
 - **로그인 및 회원가입 & 애플리케이션 정보(팝업)**
-- <figure class="thrid">  
-  <a href="link">
-    <img src="![로그인](https://github.com/user-attachments/assets/6e0687eb-6356-4d28-a9ca-a082152ec027)">
-  </a>  
-  <a href="link">
-    <img src="![회원가입](https://github.com/user-attachments/assets/30f29280-8fa2-4c5f-b99d-11f77855e46b)">
-  </a>
-  <a href="link">
-    <img src="![소개](https://github.com/user-attachments/assets/6f37ca22-c42d-4d2f-9a18-3699227f31a2)">
-  </a>  
-  <figcaption>3개이미지</figcaption></figure>
 
-
-
-
-
+<img src= https://github.com/user-attachments/assets/6e0687eb-6356-4d28-a9ca-a082152ec027 width=30% height=120% />
+<img src= https://github.com/user-attachments/assets/30f29280-8fa2-4c5f-b99d-11f77855e46b width=30% height=120% />
+<img src= https://github.com/user-attachments/assets/6f37ca22-c42d-4d2f-9a18-3699227f31a2 width=30% height=120% />
 <br><br>
+
 
 - **메인화면 & 학교안내도(팝업) & 메인화면 번역**
 ![메인화면](https://github.com/user-attachments/assets/13c5f416-dc07-40be-891c-bcdfd68f8079)
