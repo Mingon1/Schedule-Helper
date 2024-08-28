@@ -17,7 +17,7 @@
 <br><br>
 
 ## 📰 ERD
-![erd](https://github.com/Mingn1/Schedule-Helper/assets/b030b2b7-d1b2-4b21-a91f-02475219587e)
+![erd](https://github.com/Mingn1/assets/b030b2b7-d1b2-4b21-a91f-02475219587e)
 <br><br>
 
 ## 📲 주요 기능
