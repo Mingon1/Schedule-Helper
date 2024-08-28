@@ -23,26 +23,25 @@
 ## 📲 주요 기능
 - **로그인 및 회원가입 & 애플리케이션 정보(팝업)**
 ![스크린샷 2024-08-28 231603](https://github.com/user-attachments/assets/02f0b172-017c-48cd-a592-561f23fccfb4)
-
 <br><br>
 
 
 - **메인화면 & 학교안내도(팝업) & 메인화면 번역**
 ![스크린샷 2024-08-28 231353](https://github.com/user-attachments/assets/f6a12c4f-f74d-416f-ab0a-403208617c3e)
-
 <br><br>
+
   
 - **강의목록 조회 및 시간표확인**
 ![스크린샷 2024-08-28 231639](https://github.com/user-attachments/assets/4a324f40-a0fb-4735-b677-723124a43578)
-
 <br><br>
+
 
 - **게시판**
 ![스크린샷 2024-08-28 231712](https://github.com/user-attachments/assets/f0ebf2fd-7378-4de4-b0fe-82952000a8aa)
 <br>
 ![스크린샷 2024-08-28 231722](https://github.com/user-attachments/assets/3a266e0c-b894-43af-81cc-06a5e624308b)
-
 <br><br>
+
 
 - **내 정보 & 인기차트 보기**
 ![스크린샷 2024-08-28 231758](https://github.com/user-attachments/assets/9839d9aa-34f1-427d-bf32-1823dd533f4d)
