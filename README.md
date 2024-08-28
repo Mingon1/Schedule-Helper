@@ -33,17 +33,17 @@
 <br><br>
   
 - **강의목록 조회 및 시간표확인**
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/c028056d-4762-4458-b0f1-f25484b11d3c width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/448bc6a0-c678-4860-950d-92ffc8debd46 width=30% height=120% />
+![스크린샷 2024-08-28 231639](https://github.com/user-attachments/assets/4a324f40-a0fb-4735-b677-723124a43578)
+
 <br><br>
 
 - **게시판**
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/8b79bb8b-45d9-4681-8d5b-230eed5ae7da width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/35c0d633-86c2-4856-ac19-5d67bf9d78d1 width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/abab4910-053b-4297-b80a-4f4223e4c3d2 width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/e8e922ec-07d2-4b57-a4a8-150f60e14742 width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/45743e23-b1b8-49da-985f-622f1efe57e7 width=30% height=120% />
+![스크린샷 2024-08-28 231712](https://github.com/user-attachments/assets/f0ebf2fd-7378-4de4-b0fe-82952000a8aa)
+<br>
+![스크린샷 2024-08-28 231722](https://github.com/user-attachments/assets/3a266e0c-b894-43af-81cc-06a5e624308b)
+
 <br><br>
 
 - **내 정보 & 인기차트 보기**
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/1daf1c91-5f45-4d03-93ee-92fb7f31dd7f width=30% height=120% />
+![스크린샷 2024-08-28 231758](https://github.com/user-attachments/assets/9839d9aa-34f1-427d-bf32-1823dd533f4d)
+
