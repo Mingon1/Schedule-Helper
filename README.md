@@ -24,7 +24,7 @@
 - **로그인 및 회원가입 & 애플리케이션 정보(팝업)**
 <img src= https://github.com/user-attachments/assets/bd0fba96-a1d3-470f-b06b-9e993697ed7c width=30% height=120% />
 <img src= https://github.com/user-attachments/assets/d1fe9907-2056-4587-b938-bdcd2e870c76 width=30% height=120% />
-<img src= https://github.com/user-attachments/assets/6f37ca22-c42d-4d2f-9a18-3699227f31a2 width=30% height=120% />
+<img src= https://github.com/user-attachments/assets/307544db-433a-4d86-a61b-d4e6d22f763a width=30% height=120% />
 <br><br>
 
 
