@@ -31,7 +31,7 @@
 <br><br>
 
   
-- **강의목록 조회 및 시간표확인**
+- **강의목록 조회 및 시간표확인** <br>
 ![스크린샷 2024-08-28 231639](https://github.com/user-attachments/assets/4a324f40-a0fb-4735-b677-723124a43578)
 <br><br>
 
@@ -42,6 +42,6 @@
 <br><br>
 
 
-- **내 정보 & 인기차트 보기**
+- **내 정보 & 인기차트 보기** <br>
 ![스크린샷 2024-08-28 231758](https://github.com/user-attachments/assets/9839d9aa-34f1-427d-bf32-1823dd533f4d)
 
