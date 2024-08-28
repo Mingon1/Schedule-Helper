@@ -38,7 +38,6 @@
 
 - **게시판**
 ![스크린샷 2024-08-28 231712](https://github.com/user-attachments/assets/f0ebf2fd-7378-4de4-b0fe-82952000a8aa)
-<br>
 ![스크린샷 2024-08-28 231722](https://github.com/user-attachments/assets/3a266e0c-b894-43af-81cc-06a5e624308b)
 <br><br>
 
