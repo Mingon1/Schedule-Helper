@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/black"
+    >
+
+    <Button
+        android:layout_width="60dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="삭제"
+        android:drawableStart="@drawable/ic_delete"
+        android:backgroundTint="#FF0000"
+        android:textColor="@color/white"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:id="@+id/deleteButton"
+        android:layout_marginRight="8dp"
+        android:layout_marginLeft="8dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/black">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="강의 제목"
+                android:id="@+id/courseTitle"
+                android:layout_gravity="center"
+                android:padding="3dp"
+                android:textSize="12dp"
+                android:textColor="#ffffff"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/black">
+
+            <TextView
+                android:id="@+id/coursePersonnel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="2dp"
+                android:text="신청인원 : 40/30"
+                android:textSize="12dp"
+                android:textColor="@color/colorGrey"
+                android:textColorHint="#ffffff" />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="@color/black">
+
+            <TextView
+                android:id="@+id/courseGrade"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="3dp"
+                android:text="1학년"
+                android:textColor="@color/colorGrey"
+                android:textSize="12dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1분반"
+                android:id="@+id/courseDivide"
+                android:layout_gravity="center"
+                android:padding="3dp"
+                android:textSize="12dp"
+                android:textColor="@color/colorGrey"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="경쟁률: 133%"
+                android:id="@+id/courseRate"
+                android:layout_gravity="center"
+                android:padding="2dp"
+                android:textSize="12dp"
+                android:textColor="@color/colorGrey"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/menu_bar"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <TextView
+        android:drawableStart="@drawable/questionmark"
+        android:drawableLeft="@drawable/questionmark"
+        android:text=" 어플리케이션 정보"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/colorPrimary"
+        android:padding="5dp"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:drawableStart="@drawable/ic_baseline_build_24"
+        android:drawableLeft="@drawable/ic_baseline_build_24"
+        android:text=" 어플리케이션 정보 : 0.1 Ver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/round_text"
+        android:padding="5dp"
+        android:textSize="12dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:drawableStart="@drawable/ic_baseline_public_24"
+        android:drawableLeft="@drawable/ic_baseline_public_24"
+        android:text=" github : https://github.com/Mingon1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="20dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/round_text"
+        android:padding="5dp"
+        android:textSize="12dp"
+        android:textStyle="bold"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="15dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:drawableStart="@drawable/employee"
+            android:drawableLeft="@drawable/employee"
+            android:text=" 개발자 소개"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:background="@drawable/round_text"
+            android:padding="5dp"
+            android:textSize="12dp"
+            android:textStyle="bold"/>
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:isScrollContainer="true">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginBottom="15dp"
+                    android:orientation="horizontal">
+
+                    <com.example.e.Widget.CircleImageView
+                        android:src="@drawable/jeonmingon"
+                        android:id="@+id/imageView"
+                        android:layout_width="80dp"
+                        android:layout_height="80dp"
+                        app:civ_border_color="@color/gray"
+                        app:civ_border_width="2dp"/>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:orientation="vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="전민곤"
+                            android:textStyle="bold"
+                            android:textColor="#ffffff"
+                            android:textSize="13dp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="강원대학교(삼척) 미디어공학전공"
+                            android:textColor="#ffffff"
+                            android:textSize="12dp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="asas2930@naver.com"
+                            android:textColor="#ffffff"
+                            android:textSize="12dp"/>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>
