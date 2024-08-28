@@ -25,7 +25,7 @@
 
 <img src= https://github.com/user-attachments/assets/6e0687eb-6356-4d28-a9ca-a082152ec027 width=30% height=120% />
 <img src= https://github.com/user-attachments/assets/30f29280-8fa2-4c5f-b99d-11f77855e46b width=30% height=120% />
-<img src= https://github.com/user-attachments/assets/6f37ca22-c42d-4d2f-9a18-3699227f31a2 width=30% height=90% />
+<img src= https://github.com/user-attachments/assets/6f37ca22-c42d-4d2f-9a18-3699227f31a2 width=30% height=50% />
 <br><br>
 
 
