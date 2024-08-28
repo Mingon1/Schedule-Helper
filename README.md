@@ -29,11 +29,9 @@
 
 
 - **메인화면 & 학교안내도(팝업) & 메인화면 번역**
-![메인화면](https://github.com/user-attachments/assets/13c5f416-dc07-40be-891c-bcdfd68f8079)
-
-![학교안내도](https://github.com/user-attachments/assets/ef0e055d-3ba0-4c77-92be-0caab0d5e04d)
-
-![메인화면번역](https://github.com/user-attachments/assets/a2c89ade-c8d5-4491-bdae-d4642cfa3288)
+<img src= https://github.com/user-attachments/assets/1dd1b2e1-497b-4ca5-95ad-54b37c254c9d width=30% height=120% />
+<img src= https://github.com/user-attachments/assets/05868c49-995e-4764-9e37-2eae47691668 width=30% height=120% />
+<img src= https://github.com/user-attachments/assets/5f4b0fc8-f962-446f-9d77-54f214f5247b width=30% height=120% />
 <br><br>
   
 - **강의목록 조회 및 시간표확인**
