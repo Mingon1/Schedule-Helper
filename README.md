@@ -22,15 +22,20 @@
 
 ## 📲 주요 기능
 - **로그인 및 회원가입 & 애플리케이션 정보(팝업)**
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/205a69a8-6fdf-4f81-9474-ae0ddec83a13 width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/24563777-a251-42e2-95e5-3017efaff070 width=30% height=120% />
-<img src= https://github.com/Mingon1/Schedule-Helper/assets/79850216/c2ee8668-055f-400f-8ec3-cb2bff1e784c width=30% height=120% />
+![로그인](https://github.com/user-attachments/assets/6e0687eb-6356-4d28-a9ca-a082152ec027)
+
+![회원가입](https://github.com/user-attachments/assets/30f29280-8fa2-4c5f-b99d-11f77855e46b)
+
+![소개](https://github.com/user-attachments/assets/6f37ca22-c42d-4d2f-9a18-3699227f31a2)
+
 <br><br>
 
 - **메인화면 & 학교안내도(팝업) & 메인화면 번역**
-<img src= https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/4abef176-7690-4c1b-91af-acc6f9a4ab07 width=30% height=120% />
-<img src= https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/702d1c04-098a-41a4-8d04-97f682815d76 width=30% height=120% />
-<img src= https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/a4d84626-c370-44a1-b77a-79fa1fa8f5b9 width=30% height=120% />
+![메인화면](https://github.com/user-attachments/assets/13c5f416-dc07-40be-891c-bcdfd68f8079)
+
+![학교안내도](https://github.com/user-attachments/assets/ef0e055d-3ba0-4c77-92be-0caab0d5e04d)
+
+![메인화면번역](https://github.com/user-attachments/assets/a2c89ade-c8d5-4491-bdae-d4642cfa3288)
 <br><br>
   
 - **강의목록 조회 및 시간표확인**
