@@ -17,7 +17,7 @@
 <br><br>
 
 ## 📰 ERD
-![ERD](https://github.com/Mingon1/Schedule-Helper/assets/79850216/9847336e-5906-47fe-a9f9-7507afdb498b)
+![ERD](https://github.com/Mingon1/Schedule-Helper/assets/b030b2b7-d1b2-4b21-a91f-02475219587e)
 <br><br>
 
 ## 📲 주요 기능
