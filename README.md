@@ -17,7 +17,7 @@
 <br><br>
 
 ## 📰 ERD
-![erd](https://github.com/Mingn1/assets/b030b2b7-d1b2-4b21-a91f-02475219587e)
+![erd](https://github.com/user-attachments/assets/ab6baae4-0686-4c76-b43f-b95d1436b7a0)
 <br><br>
 
 ## 📲 주요 기능
